@@ -23,9 +23,7 @@ python detector.py \
 --json
 ```
 
-## Step 6
-
-查看结果
+## 4️⃣ 查看结果
 
 ```text
 results.txt
