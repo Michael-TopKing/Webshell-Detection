@@ -18,7 +18,7 @@ dictionary.txt
 ```bash
 python detector.py \
 -d directories.txt \
--w webshell.txt \
+-w dictionary.txt \
 -c 300 \
 --json
 ```
