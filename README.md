@@ -1,8 +1,8 @@
 ## 1️⃣ 安装依赖
 
 ```bash
-git clone https://github.com/Michael-TopKing/Webshell-Checker-V4.git
-cd Webshell-Checker-V4
+git clone https://github.com/Michael-TopKing/Webshell-Detection.git
+cd Webshell-Detection
 pip3 install -r requirements.txt
 ```
 
